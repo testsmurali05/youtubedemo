@@ -1,0 +1,6 @@
+F:\QuestpondDVD\WEB API-Project\GitTestProject\GitTestProject\bin\Debug\GitTestProject.exe.config
+F:\QuestpondDVD\WEB API-Project\GitTestProject\GitTestProject\bin\Debug\GitTestProject.exe
+F:\QuestpondDVD\WEB API-Project\GitTestProject\GitTestProject\bin\Debug\GitTestProject.pdb
+F:\QuestpondDVD\WEB API-Project\GitTestProject\GitTestProject\obj\Debug\GitTestProject.csprojResolveAssemblyReference.cache
+F:\QuestpondDVD\WEB API-Project\GitTestProject\GitTestProject\obj\Debug\GitTestProject.exe
+F:\QuestpondDVD\WEB API-Project\GitTestProject\GitTestProject\obj\Debug\GitTestProject.pdb
